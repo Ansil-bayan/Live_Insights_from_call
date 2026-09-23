@@ -7,6 +7,12 @@ This repository contains a real‑time audio streaming and analysis pipeline bui
 - **Utility scripts** for audio conversion (`16k_converter.py`) and format checking (`audio_type_checker.py`).
 - **Example client** (`test_receiver.py`) that demonstrates how to consume the streamed transcript.
 
+## DEMO VIDEO
+
+
+
+[![Watch the Video](https://github.com/user-attachments/assets/5bb998c4-9470-4a49-b90d-b4ba083f9fa8)]([JAM_VIDEO_URL](https://jam.dev/c/4cefdf5b-42af-431d-95f6-9f8af258c88a))
+
 ## Project Structure
 
 ```
